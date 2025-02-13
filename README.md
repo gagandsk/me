@@ -1,6 +1,6 @@
 💻 Gagan | Software Developer
 
-🚀 About Me
+## 🚀 About Me
 
 I am a software developer with over 4 years of experience in web and backend application development. My focus is on creating modern, scalable, and efficient solutions using cutting-edge technologies to deliver high-quality products.
 
@@ -8,7 +8,7 @@ I specialize in Full-Stack development, with solid knowledge in both backend and
 
 🛠️ Technologies and Tools
 
-📌 Frontend
+### 📌 Frontend
 
 React.js ⚛️ - Development of dynamic and reactive interfaces
 
@@ -16,13 +16,13 @@ Next.js 🚀 - SSR and SSG applications for better performance and SEO
 
 TypeScript 🔷 - Static typing for better code maintainability
 
-📌 Backend
+### 📌 Backend
 
 Node.js 🌿 - Development of REST APIs and scalable backend services
 
 .NET 🏗
 
-📌 Databases
+### 📌 Databases
 
 SQL (PostgreSQL, MySQL, SQL Server) 📊 - Modeling, optimization, and management of relational databases
 
@@ -30,7 +30,7 @@ MongoDB 🍃 - Flexible and scalable NoSQL databases
 
 Redis ⚡ - Caching storage for performance optimization
 
-📌 DevOps & Cloud
+### 📌 DevOps & Cloud
 
 Docker 🐳 - Containers for consistent deployments
 
